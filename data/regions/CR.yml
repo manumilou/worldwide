@@ -19,6 +19,7 @@ additional_address_fields:
   - name: line2
   - name: neighborhood
     required: true
+street_number_position: leading
 combined_address_format:
   default:
     address2:

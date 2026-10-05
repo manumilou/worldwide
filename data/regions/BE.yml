@@ -39,6 +39,7 @@ additional_address_fields:
     required: true
   - name: streetNumber
     required: true
+street_number_position: trailing
 combined_address_format:
   default:
     address1:
